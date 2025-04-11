@@ -1,0 +1,16 @@
+{
+  "grupos": [
+    "Grupo para el BOT Fernan",
+    "Mi grupo de prueba Fernan"
+  ],
+  "mensajes": [
+    {
+      "texto": "LINTERNA RECARGABLE 🔦💡con PANEL SOLAR y puerto USB\n• Alta potencia de iluminación\n• Batería de larga duración\n• Variedad de modos de iluminación\n• Panel Solar\n• Puerto USB para cargar el móvil\n \nContactar al PV para detalles",
+      "imagen": "src/assets/images/linterna.jpg"
+    },
+    {
+      "texto": "LÁMPARA RECARGABLE 🔦💡 ALTA INTENSIDAD\n• Alta potencia de iluminación\n• Batería de larga duración (8h)\n• 2 Niveles de intensidad\n \nContactar al PV para detalles",
+      "imagen": "src/assets/images/lampara.jpg"
+    }
+  ]
+}

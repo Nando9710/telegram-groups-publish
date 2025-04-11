@@ -1,0 +1,103 @@
+{
+  "cookies": [
+    {
+      "name": "stel_web_auth",
+      "value": "https%3A%2F%2Fweb.telegram.org%2Fk%2F",
+      "domain": "telegram.me",
+      "path": "/",
+      "expires": 1775343878.581183,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stel_web_auth",
+      "value": "https%3A%2F%2Fweb.telegram.org%2Fk%2F",
+      "domain": "t.me",
+      "path": "/",
+      "expires": 1775739886.01863,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://web.telegram.org",
+      "localStorage": [
+        {
+          "name": "kz_version",
+          "value": "\"K\""
+        },
+        {
+          "name": "xt_instance",
+          "value": "{\"id\":11604367,\"idle\":false,\"time\":1744375192503}"
+        },
+        {
+          "name": "account1",
+          "value": "{\"dc1_auth_key\":\"59923775d096c34d40d885295dedf283e746237a46ee111943df9888af472ea0a99da90955f6fc91c8e1402398e2fe12990959077d43ca1f32a5df1093db00542a412a7571688f1ab5ca1e56786423822f69cf99f6f016efe7d54303a0db55bd262932868127e1ff518549d9a0346b6352a24eee1ed9eec682bf5e674bf669698e6a7fed5b73cd7d673b858ecd58fd6947e6af3be6eef10e6e78a17d92f2d44f80181e0e753ccac21c19117633085419d1d027eb1eadc7a74a400a65c58d8d4bae94de07dc93604345b677bdf40f14b73f8b14b75968f7514563c4111511fbad02dddb1679e59e1999b831918f1eab2ccae91994a9dff9cbaebc5e2169b2f4ee\",\"dc1_server_salt\":\"a0fcd83452577022\",\"dc2_auth_key\":\"7716a3383c5c4f5627df4d5bcff0260069ede63c5ed5a39df3dbc7021710e37a397b67b09594aa90b84e93f06cea12ed8955989a58239f3a98eb5b667fcb5b4669bf137b8a9edc3e3feb4b65a0ac9d82cbd1da5b3bf104b1b47f15c731bd38de0703362f73b574cc550c26eab07062c5040b94a6108f8f79ca9ab7469a813f78c6c029e806f9a16fdd9ecbffad51ede365037e4412fceffdf11f30cc32752500d5b986c3f66efe8aeb498ad5b215f9a2226aa6838c715f32ba0fb0e452066ab40da0bf84cca33a3e58eb12dc055456b436552e231eb92268a3ac6e0d0c8e601e3da5e929ce542186dcecd7226e33f4393ccc1723787c2186e566f3ae33daa318\",\"dc2_server_salt\":\"2d9ecde9656110d8\",\"dc4_auth_key\":\"8dcb39a85e0247cf4bff80e3ce3121370abbf9013baf60cad995e939e8b9eb7147e9721f01a051967c630609c890dd198ebc94499867f3bd60e3905ccbb8663fcfc502a7a3128eb4a004674907ed9b71a7a11cbb595cbf6085d5b498fafd8351063d4a926b596c5ea532fe69c2a2a8900e4fa2bc978834ae1cefea499a139149c18a5d57943e79b8fcd604fae48418eaae0a337837f1b4f32fa5e92178675ff289e9d161264206fc0877c1e5b6a9e007a357fa4904c5eebd8805b0286fe48a19a1a31fd40fa3c48b32755b931d64c0b9bbdb9f55351ec392c0a854aad4fa0416ec17ceb2edf565caf931814e881be9b85283316158c81a56c6a68a8023268435\",\"dc4_server_salt\":\"bdca8513173888a6\",\"dc5_auth_key\":\"52dac786576f8048e03e28fb5930b3bb8a6dbe92f28ce57d6fa84b2bf8a8cf3084aab25cb2a62bb2c5253adc9268c8ac984fa629e3d595c0a49b1e2544299b9046c26fa8097c81ea38938f2dccd5083684c9f0568967198713df7e21490820a6ab0f502971ba71109bc6d139f1597f56269d0e3585e99a66c687529fe41995c4e5720e02b2ade8f1edad439547a8f9e7e7d2f8a20c5ca445a6d7bfc2fa68fe7b10d4049084c3ba1297ed171355ad72e12374ac99464c0483e96b66dab18ee311e1e19f53672549ebd03f1f55e419c41b0fbce7b141064df2c1060eb6bc655d96f3215d6b9d20777feef2ba6075ec7c03748fd7e2123d049a821dd5f87a556260\",\"dc5_server_salt\":\"9ea6f96718b0f2c2\",\"userId\":944082852,\"dcId\":1,\"date\":1744375182}"
+        },
+        {
+          "name": "dc2_auth_key",
+          "value": "\"7716a3383c5c4f5627df4d5bcff0260069ede63c5ed5a39df3dbc7021710e37a397b67b09594aa90b84e93f06cea12ed8955989a58239f3a98eb5b667fcb5b4669bf137b8a9edc3e3feb4b65a0ac9d82cbd1da5b3bf104b1b47f15c731bd38de0703362f73b574cc550c26eab07062c5040b94a6108f8f79ca9ab7469a813f78c6c029e806f9a16fdd9ecbffad51ede365037e4412fceffdf11f30cc32752500d5b986c3f66efe8aeb498ad5b215f9a2226aa6838c715f32ba0fb0e452066ab40da0bf84cca33a3e58eb12dc055456b436552e231eb92268a3ac6e0d0c8e601e3da5e929ce542186dcecd7226e33f4393ccc1723787c2186e566f3ae33daa318\""
+        },
+        {
+          "name": "number_of_accounts",
+          "value": "1"
+        },
+        {
+          "name": "tgme_sync",
+          "value": "{\"canRedirect\":true,\"ts\":1744375186}"
+        },
+        {
+          "name": "dc5_server_salt",
+          "value": "\"9ea6f96718b0f2c2\""
+        },
+        {
+          "name": "dc",
+          "value": "1"
+        },
+        {
+          "name": "user_auth",
+          "value": "{\"date\":1744375193,\"id\":944082852,\"dcID\":1}"
+        },
+        {
+          "name": "dc5_auth_key",
+          "value": "\"52dac786576f8048e03e28fb5930b3bb8a6dbe92f28ce57d6fa84b2bf8a8cf3084aab25cb2a62bb2c5253adc9268c8ac984fa629e3d595c0a49b1e2544299b9046c26fa8097c81ea38938f2dccd5083684c9f0568967198713df7e21490820a6ab0f502971ba71109bc6d139f1597f56269d0e3585e99a66c687529fe41995c4e5720e02b2ade8f1edad439547a8f9e7e7d2f8a20c5ca445a6d7bfc2fa68fe7b10d4049084c3ba1297ed171355ad72e12374ac99464c0483e96b66dab18ee311e1e19f53672549ebd03f1f55e419c41b0fbce7b141064df2c1060eb6bc655d96f3215d6b9d20777feef2ba6075ec7c03748fd7e2123d049a821dd5f87a556260\""
+        },
+        {
+          "name": "k_build",
+          "value": "565"
+        },
+        {
+          "name": "dc1_auth_key",
+          "value": "\"59923775d096c34d40d885295dedf283e746237a46ee111943df9888af472ea0a99da90955f6fc91c8e1402398e2fe12990959077d43ca1f32a5df1093db00542a412a7571688f1ab5ca1e56786423822f69cf99f6f016efe7d54303a0db55bd262932868127e1ff518549d9a0346b6352a24eee1ed9eec682bf5e674bf669698e6a7fed5b73cd7d673b858ecd58fd6947e6af3be6eef10e6e78a17d92f2d44f80181e0e753ccac21c19117633085419d1d027eb1eadc7a74a400a65c58d8d4bae94de07dc93604345b677bdf40f14b73f8b14b75968f7514563c4111511fbad02dddb1679e59e1999b831918f1eab2ccae91994a9dff9cbaebc5e2169b2f4ee\""
+        },
+        {
+          "name": "dc2_server_salt",
+          "value": "\"2d9ecde9656110d8\""
+        },
+        {
+          "name": "dc4_auth_key",
+          "value": "\"8dcb39a85e0247cf4bff80e3ce3121370abbf9013baf60cad995e939e8b9eb7147e9721f01a051967c630609c890dd198ebc94499867f3bd60e3905ccbb8663fcfc502a7a3128eb4a004674907ed9b71a7a11cbb595cbf6085d5b498fafd8351063d4a926b596c5ea532fe69c2a2a8900e4fa2bc978834ae1cefea499a139149c18a5d57943e79b8fcd604fae48418eaae0a337837f1b4f32fa5e92178675ff289e9d161264206fc0877c1e5b6a9e007a357fa4904c5eebd8805b0286fe48a19a1a31fd40fa3c48b32755b931d64c0b9bbdb9f55351ec392c0a854aad4fa0416ec17ceb2edf565caf931814e881be9b85283316158c81a56c6a68a8023268435\""
+        },
+        {
+          "name": "dc4_server_salt",
+          "value": "\"bdca8513173888a6\""
+        },
+        {
+          "name": "dc1_server_salt",
+          "value": "\"a0fcd83452577022\""
+        },
+        {
+          "name": "auth_key_fingerprint",
+          "value": "\"7716a338\""
+        },
+        {
+          "name": "server_time_offset",
+          "value": "0"
+        }
+      ]
+    }
+  ]
+}
