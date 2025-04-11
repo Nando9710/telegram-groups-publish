@@ -25,13 +25,7 @@ function leerConfig() {
   const rawConfig = fs.readFileSync(CONTENT_PATH);
   return JSON.parse(rawConfig);
 }
-// "https://t.me/Ventas_Revolico_Habana_Spam",
-    // "https://t.me/cubahabana1989",
-    // "https://t.me/tukiosco2020",
-    // "https://t.me/detodohabana",
-    // "https://t.me/CubaCompras",
-    // "https://t.me/revolicolahabana",
-    // "https://t.me/comprahabanarevolico"
+
 async function initBrowser() {
   const { grupos: groups, mensajes: messages } = leerConfig();
 
